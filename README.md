@@ -7,6 +7,16 @@ This project is about creating a website for people to play Pong against each ot
 In this project I was mainly responsible from the Backend side.
 
 ## Images & Gifs
+![Visual](./assets/1.png)
+![Visual](./assets/2.png)
+![Visual](./assets/3.png)
+![Visual](./assets/chatroom.gif)
+![Visual](./assets/queue.gif)
+![Visual](./assets/gamestarting.gif)
+![Visual](./assets/game.gif)
+![Visual](./assets/4.png)
+![Visual](./assets/5.png)
+![Visual](./assets/6.png)
 
 ## Features & Technologies
 - **[General Project Structure]**
