@@ -45,9 +45,10 @@ In this project I was mainly responsible from the Backend side.
 
 - **[Database]**
     - **PostgreSQL** ([X](https://www.postgresql.org/))
-    - Prisma ORM (Database <--> Backend) ([X](https://www.prisma.io/))
+
 - **[Backend]**
     - **NestJS** - **TypeScript** ([X](https://nestjs.com/))
+    - Prisma ORM (Database <--> Backend) ([X](https://www.prisma.io/))
 
 - **[Frontend]**
     - **React** - **TypeScript** ([X](https://react.dev/))
